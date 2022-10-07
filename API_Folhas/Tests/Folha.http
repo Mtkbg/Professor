@@ -12,3 +12,12 @@ Content-Type: application/json
     "impostofgts" : 400,
     "salarioliquido" : 3944.36
 }
+
+### Listar a folha
+GET https://localhost:5001/api/folha/listar
+
+### Buscar/{cpf}/{mês}/{ano} folha
+GET https://localhost:5001/api/folha/buscar
+
+### Filtrar/{mês}/{ano} folha
+GET https://localhost:5001/api/folha/filtrar
