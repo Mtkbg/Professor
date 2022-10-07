@@ -1,0 +1,18 @@
+[
+  {
+    "funcionarioid" : 1,
+    "valorhora" : 50,    
+    "quantidadehoras" : 100
+  },
+  { 
+    "folhaid" : 1,
+    "valorhora" : 50,    
+    "quantidadehoras" : 100,
+    "salariobruto" : 5000,
+    "impostorenda" : 505.64,
+    "impostoinss" : 550.00,
+    "impostofgts" : 400,
+    "salarioliquido" : 3944.36
+  }
+]
+
